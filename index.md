@@ -1,3 +1,11 @@
-# Welcome to my blog
+# Achievements
 
 I'm glad you are here. I plan to talk about ...
+
+<details>
+<summary> Online Certificates </summary>
+
+2020
+
+<p> Kaggle feature-engineering
+<a href="https://www.kaggle.com/learn/certification/lenosr/feature-engineering">Harvard Dataverse</a></p>
